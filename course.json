@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Curso A",
+        "description": "El A es uno de los cursos presentes en la escuela"
+    },
+    {
+        "id": 2,
+        "name": "Curso B",
+        "description": "El B es uno de los cursos presentes en la escuela"
+    },
+    {
+        "id": 3,
+        "name": "Curso C",
+        "description": "El C es uno de los cursos presentes en la escuela"
+    }
+]
